@@ -1,6 +1,7 @@
 <?php
 
-    include '../vendor/autoload.php';
+    # 包含自动加载文件
+    include './vendor/autoload.php';
     
     use kdl\Auth;
     use kdl\Client;
